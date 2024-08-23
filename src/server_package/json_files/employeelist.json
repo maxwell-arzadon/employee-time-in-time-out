@@ -1,0 +1,17 @@
+[
+  {
+    "employeeDetails": {
+      "employeeID": 123456,
+      "employeeContactNo": "09876543210",
+      "employeeEmergencyContact": "09876543210",
+      "employeeName": "joshua lalwet",
+      "employeePosition": "Junior Programmer",
+      "employeeBirthday": "2002/4/26",
+      "employeeAddress": "Baguio City",
+      "employeeSex": "MALE",
+      "employeeDepartment": "IT"
+    },
+    "username": "cjl123",
+    "password": "TLSANTuohT/Xlx0wGh+UUMUENlH7h5yg0LVT9stKDw0\u003d"
+  }
+]
